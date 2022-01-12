@@ -5,8 +5,11 @@ Goal: Use Machine Learning to predict future crimes in certain cities/locations.
 
 ## Prospective Datasets
 City of Gainesville - https://data.cityofgainesville.org/Public-Safety/Crime-Responses/gvua-xt9q
+
 City of Chicago - https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
+
 City of Chicago - https://www.kaggle.com/chicago/chicago-crime
+
 Chicago Census data - https://www.census.gov/quickfacts/chicagocityillinois
 
 ## Outline of Project with tools
